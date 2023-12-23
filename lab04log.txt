@@ -1,0 +1,40 @@
+Script started on 2021-09-23 21:36:55-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="118" LINES="65"]
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab04[006799085@csusb.edu@jb359-3 Lab04]$ ./lab04
+Please enter x: 3
+Please enter n: 10
+88573
+The execution time is : 3.8938e-05
+88573
+The execution time is : 5.077e-06
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab04[006799085@csusb.edu@jb359-3 Lab04]$ ./lab04
+Please enter x: 3
+Please enter n: 100
+-4476934268306317895
+The execution time is : 8.0126e-05
+-4476934268306317895
+The execution time is : 5.123e-06
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab04[006799085@csusb.edu@jb359-3 Lab04]$ ./lab04
+Please enter x: 3
+Please enter n: 1000
+-9141782528521893711
+The execution time is : 0.0039157
+-9141782528521893711
+The execution time is : 1.6397e-05
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab04[006799085@csusb.edu@jb359-3 Lab04]$ ./lab04
+Please enter x: 3
+Please enter n: 10000
+-8051431618136537887
+The execution time is : 0.0862178
+-8051431618136537887
+The execution time is : 1.9135e-05
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab04[006799085@csusb.edu@jb359-3 Lab04]$ ./lab04
+Please enter x: 3
+Please enter n: 100000
+3725597458245626049
+The execution time is : 8.17519
+3725597458245626049
+The execution time is : 0.000249606
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab04[006799085@csusb.edu@jb359-3 Lab04]$ exit
+exit
+
+Script done on 2021-09-23 21:38:18-07:00 [COMMAND_EXIT_CODE="0"]
